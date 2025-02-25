@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Homepage</title>
 </head>
 <body>
      <h2>Welcome to Home Page</h2>
